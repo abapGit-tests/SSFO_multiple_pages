@@ -1666,7 +1666,7 @@
               <NAME>
                <INAME>FOOTER</INAME>
               </NAME>
-              <CAPTION>Footer Window 1</CAPTION>
+              <CAPTION>Footer Window</CAPTION>
               <WTYPE>T</WTYPE>
               <T_CAPTION>
                <item>
@@ -1674,7 +1674,7 @@
                 <FORMNAME>ZLV_REUMA_170</FORMNAME>
                 <OBJTYPE>WI</OBJTYPE>
                 <INAME>FOOTER</INAME>
-                <CAPTION>Footer Window 1</CAPTION>
+                <CAPTION>Footer Window</CAPTION>
                </item>
                <item>
                 <LANGU>D</LANGU>
