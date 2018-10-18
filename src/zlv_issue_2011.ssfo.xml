@@ -8,6 +8,7 @@
    <LANGVECTOR>*</LANGVECTOR>
    <DEVCLASS></DEVCLASS>
    <VERSION>00001</VERSION>
+   <STATUS>I</STATUS>
    <FIRSTUSER>DUMMY</FIRSTUSER>
    <FIRSTDATE>2018-10-18</FIRSTDATE>
    <FIRSTTIME>22:12:45</FIRSTTIME>
@@ -420,7 +421,7 @@
             <sf:OBJ>
              <sf:WINDOW>
               <NAME>
-               <INAME>NEXT_OBJECT_ADDRESS</INAME>
+               <INAME>WINDOW1</INAME>
               </NAME>
               <CAPTION>Info Window Next Pages</CAPTION>
               <WTYPE>T</WTYPE>
@@ -429,14 +430,14 @@
                 <LANGU>D</LANGU>
                 <FORMNAME>ZLV_ISSUE_2011</FORMNAME>
                 <OBJTYPE>WI</OBJTYPE>
-                <INAME>NEXT_OBJECT_ADDRESS</INAME>
+                <INAME>WINDOW1</INAME>
                 <CAPTION>Folgeseite - Objektanschrift</CAPTION>
                </item>
                <item>
                 <LANGU>E</LANGU>
                 <FORMNAME>ZLV_ISSUE_2011</FORMNAME>
                 <OBJTYPE>WI</OBJTYPE>
-                <INAME>NEXT_OBJECT_ADDRESS</INAME>
+                <INAME>WINDOW1</INAME>
                 <CAPTION>Info Window Next Pages</CAPTION>
                </item>
               </T_CAPTION>
@@ -450,15 +451,15 @@
                    <sf:OBJ>
                     <sf:CODE>
                      <NAME>
-                      <INAME>COSING1</INAME>
+                      <INAME>CODING1</INAME>
                      </NAME>
                      <CAPTION>Just sample coding</CAPTION>
                      <CODE>
                       <item/>
                       <item/>
                       <item>SELECT *</item>
-                      <item>       FROM t100</item>
-                      <item>       INTO TABLE @DATA(clients).</item>
+                      <item>FROM t100</item>
+                      <item>INTO TABLE @DATA(clients).</item>
                       <item/>
                       <item/>
                       <item/>
@@ -485,7 +486,7 @@
                        <LANGU>E</LANGU>
                        <FORMNAME>ZLV_ISSUE_2011</FORMNAME>
                        <OBJTYPE>CO</OBJTYPE>
-                       <INAME>COSING1</INAME>
+                       <INAME>CODING1</INAME>
                        <CAPTION>Just sample coding</CAPTION>
                       </item>
                      </T_CAPTION>
