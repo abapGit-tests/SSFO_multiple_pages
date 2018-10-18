@@ -2626,7 +2626,7 @@
            <sf:NODE>
             <NODETYPE>WI</NODETYPE>
             <sf:OBJ>
-             <sf:WINDOW IDREF="6"/>
+             <sf:WINDOW IDREF="1"/>
             </sf:OBJ>
             <sf:OUTATTR>
              <sf:OUTATTR>
@@ -2835,7 +2835,7 @@
            <sf:NODE>
             <NODETYPE>WI</NODETYPE>
             <sf:OBJ>
-             <sf:WINDOW IDREF="6"/>
+             <sf:WINDOW IDREF="3"/>
             </sf:OBJ>
             <sf:OUTATTR>
              <sf:OUTATTR>
@@ -2962,7 +2962,7 @@
            <sf:NODE>
             <NODETYPE>WI</NODETYPE>
             <sf:OBJ>
-             <sf:WINDOW IDREF="6"/>
+             <sf:WINDOW IDREF="5"/>
             </sf:OBJ>
             <sf:OUTATTR>
              <sf:OUTATTR>
