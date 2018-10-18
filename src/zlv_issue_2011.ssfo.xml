@@ -8,7 +8,6 @@
    <LANGVECTOR>*</LANGVECTOR>
    <DEVCLASS></DEVCLASS>
    <VERSION>00001</VERSION>
-   <STATUS>I</STATUS>
    <FIRSTUSER>DUMMY</FIRSTUSER>
    <FIRSTDATE>2018-10-18</FIRSTDATE>
    <FIRSTTIME>22:12:45</FIRSTTIME>
@@ -458,8 +457,8 @@
                       <item/>
                       <item/>
                       <item>SELECT *</item>
-                      <item>FROM t100</item>
-                      <item>INTO TABLE @DATA(clients).</item>
+                      <item>       FROM t000</item>
+                      <item>       INTO TABLE @DATA(clients).</item>
                       <item/>
                       <item/>
                       <item/>
