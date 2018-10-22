@@ -145,8 +145,10 @@
   </INTERFACE>
   <GTYPES>
    <item/>
-   <item/>
-   <item/>
+   <item>TYPES: BEGIN OF ty_test,</item>
+   <item>         i TYPE i,</item>
+   <item>         s TYPE string,</item>
+   <item>       END OF ty_test.</item>
    <item/>
    <item/>
    <item/>
@@ -330,6 +332,36 @@
     <OUTIN>O</OUTIN>
    </item>
   </GPLIST>
+  <GCODING>
+   <item/>
+   <item/>
+   <item>CALL FUNCTION &apos;ITS_PING&apos;</item>
+   <item>  EXCEPTIONS</item>
+   <item>    its_not_available = 1</item>
+   <item>    OTHERS            = 2.</item>
+   <item/>
+   <item>IF sy-subrc &lt;&gt; 0.</item>
+   <item>  &quot;implement suitable error handling here</item>
+   <item>ENDIF.</item>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+   <item/>
+  </GCODING>
   <sf:VARHEADER>
    <sf:item>
     <PAGEFORMAT>DINA4</PAGEFORMAT>
