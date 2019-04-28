@@ -146,9 +146,9 @@
   <GTYPES>
    <item/>
    <item>TYPES: BEGIN OF ty_test,</item>
-   <item abapgit-leadig-spaces="9">         i TYPE i,</item>
-   <item abapgit-leadig-spaces="9">         s TYPE string,</item>
-   <item abapgit-leadig-spaces="7">       END OF ty_test.</item>
+   <item>         i TYPE i,</item>
+   <item>         s TYPE string,</item>
+   <item>       END OF ty_test.</item>
    <item/>
    <item/>
    <item/>
@@ -336,12 +336,12 @@
    <item/>
    <item/>
    <item>CALL FUNCTION &apos;ITS_PING&apos;</item>
-   <item abapgit-leadig-spaces="2">  EXCEPTIONS</item>
-   <item abapgit-leadig-spaces="4">    its_not_available = 1</item>
-   <item abapgit-leadig-spaces="4">    OTHERS            = 2.</item>
+   <item>  EXCEPTIONS</item>
+   <item>    its_not_available = 1</item>
+   <item>    OTHERS            = 2.</item>
    <item/>
    <item>IF sy-subrc &lt;&gt; 0.</item>
-   <item abapgit-leadig-spaces="2">  &quot;implement suitable error handling here</item>
+   <item>  &quot;implement suitable error handling here</item>
    <item>ENDIF.</item>
    <item/>
    <item/>
@@ -357,7 +357,7 @@
   </GCODING>
   <FCODING>
    <item>form global_demo.</item>
-   <item abapgit-leadig-spaces="4">    &quot;Demo</item>
+   <item>    &quot;Demo</item>
    <item>endform.</item>
    <item/>
    <item/>
@@ -506,8 +506,8 @@
                       <item/>
                       <item/>
                       <item>SELECT *</item>
-                      <item abapgit-leadig-spaces="7">       FROM t000</item>
-                      <item abapgit-leadig-spaces="6">      INTO TABLE @DATA(clients)    .</item>
+                      <item>       FROM t000</item>
+                      <item>      INTO TABLE @DATA(clients)    .</item>
                       <item/>
                       <item/>
                       <item/>
