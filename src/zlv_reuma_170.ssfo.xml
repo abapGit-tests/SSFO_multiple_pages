@@ -357,18 +357,18 @@
            <PAGEORTN>P</PAGEORTN>
            <T_CAPTION>
             <item>
-             <LANGU>E</LANGU>
-             <FORMNAME>ZLV_REUMA_170</FORMNAME>
-             <OBJTYPE>PA</OBJTYPE>
-             <INAME>FIRST</INAME>
-             <CAPTION>First Page</CAPTION>
-            </item>
-            <item>
              <LANGU>D</LANGU>
              <FORMNAME>ZLV_REUMA_170</FORMNAME>
              <OBJTYPE>PA</OBJTYPE>
              <INAME>FIRST</INAME>
              <CAPTION>Erste Seite</CAPTION>
+            </item>
+            <item>
+             <LANGU>E</LANGU>
+             <FORMNAME>ZLV_REUMA_170</FORMNAME>
+             <OBJTYPE>PA</OBJTYPE>
+             <INAME>FIRST</INAME>
+             <CAPTION>First Page</CAPTION>
             </item>
            </T_CAPTION>
            <sf:BACKGROUND>
@@ -395,18 +395,18 @@
              </BGR_EXT>
              <T_CAPTION>
               <item>
-               <LANGU>E</LANGU>
-               <FORMNAME>ZLV_REUMA_170</FORMNAME>
-               <OBJTYPE>GR</OBJTYPE>
-               <INAME>%GRAPHIC1</INAME>
-               <CAPTION>Background Graphic</CAPTION>
-              </item>
-              <item>
                <LANGU>D</LANGU>
                <FORMNAME>ZLV_REUMA_170</FORMNAME>
                <OBJTYPE>GR</OBJTYPE>
                <INAME>%GRAPHIC1</INAME>
                <CAPTION>Hintergrundbild</CAPTION>
+              </item>
+              <item>
+               <LANGU>E</LANGU>
+               <FORMNAME>ZLV_REUMA_170</FORMNAME>
+               <OBJTYPE>GR</OBJTYPE>
+               <INAME>%GRAPHIC1</INAME>
+               <CAPTION>Background Graphic</CAPTION>
               </item>
              </T_CAPTION>
             </sf:GRAPHIC>
@@ -426,18 +426,18 @@
               <WTYPE>T</WTYPE>
               <T_CAPTION>
                <item>
-                <LANGU>E</LANGU>
-                <FORMNAME>ZLV_REUMA_170</FORMNAME>
-                <OBJTYPE>WI</OBJTYPE>
-                <INAME>NEXT_OBJECT_ADDRESS</INAME>
-                <CAPTION>Info Window Next Pages</CAPTION>
-               </item>
-               <item>
                 <LANGU>D</LANGU>
                 <FORMNAME>ZLV_REUMA_170</FORMNAME>
                 <OBJTYPE>WI</OBJTYPE>
                 <INAME>NEXT_OBJECT_ADDRESS</INAME>
                 <CAPTION>Folgeseite - Objektanschrift</CAPTION>
+               </item>
+               <item>
+                <LANGU>E</LANGU>
+                <FORMNAME>ZLV_REUMA_170</FORMNAME>
+                <OBJTYPE>WI</OBJTYPE>
+                <INAME>NEXT_OBJECT_ADDRESS</INAME>
+                <CAPTION>Info Window Next Pages</CAPTION>
                </item>
               </T_CAPTION>
               <sf:PROC_CTRL>
@@ -546,18 +546,18 @@
               <WTYPE>T</WTYPE>
               <T_CAPTION>
                <item>
-                <LANGU>E</LANGU>
-                <FORMNAME>ZLV_REUMA_170</FORMNAME>
-                <OBJTYPE>WI</OBJTYPE>
-                <INAME>KONTAKTPERSON</INAME>
-                <CAPTION>New Window 1</CAPTION>
-               </item>
-               <item>
                 <LANGU>D</LANGU>
                 <FORMNAME>ZLV_REUMA_170</FORMNAME>
                 <OBJTYPE>WI</OBJTYPE>
                 <INAME>KONTAKTPERSON</INAME>
                 <CAPTION>Kontaktperson + Direktwahl</CAPTION>
+               </item>
+               <item>
+                <LANGU>E</LANGU>
+                <FORMNAME>ZLV_REUMA_170</FORMNAME>
+                <OBJTYPE>WI</OBJTYPE>
+                <INAME>KONTAKTPERSON</INAME>
+                <CAPTION>New Window 1</CAPTION>
                </item>
               </T_CAPTION>
               <sf:PROC_CTRL>
@@ -939,18 +939,18 @@
               <WTYPE>T</WTYPE>
               <T_CAPTION>
                <item>
-                <LANGU>E</LANGU>
-                <FORMNAME>ZLV_REUMA_170</FORMNAME>
-                <OBJTYPE>WI</OBJTYPE>
-                <INAME>HEADER</INAME>
-                <CAPTION>Header Window</CAPTION>
-               </item>
-               <item>
                 <LANGU>D</LANGU>
                 <FORMNAME>ZLV_REUMA_170</FORMNAME>
                 <OBJTYPE>WI</OBJTYPE>
                 <INAME>HEADER</INAME>
                 <CAPTION>Kopffenster (No print)</CAPTION>
+               </item>
+               <item>
+                <LANGU>E</LANGU>
+                <FORMNAME>ZLV_REUMA_170</FORMNAME>
+                <OBJTYPE>WI</OBJTYPE>
+                <INAME>HEADER</INAME>
+                <CAPTION>Header Window</CAPTION>
                </item>
               </T_CAPTION>
               <sf:PROC_CTRL>
@@ -1088,18 +1088,18 @@
               <WTYPE>T</WTYPE>
               <T_CAPTION>
                <item>
-                <LANGU>E</LANGU>
-                <FORMNAME>ZLV_REUMA_170</FORMNAME>
-                <OBJTYPE>WI</OBJTYPE>
-                <INAME>ADDRESS</INAME>
-                <CAPTION>Address Window</CAPTION>
-               </item>
-               <item>
                 <LANGU>D</LANGU>
                 <FORMNAME>ZLV_REUMA_170</FORMNAME>
                 <OBJTYPE>WI</OBJTYPE>
                 <INAME>ADDRESS</INAME>
                 <CAPTION>Adressfenster</CAPTION>
+               </item>
+               <item>
+                <LANGU>E</LANGU>
+                <FORMNAME>ZLV_REUMA_170</FORMNAME>
+                <OBJTYPE>WI</OBJTYPE>
+                <INAME>ADDRESS</INAME>
+                <CAPTION>Address Window</CAPTION>
                </item>
               </T_CAPTION>
               <sf:PROC_CTRL>
@@ -1207,18 +1207,18 @@
               <WTYPE>T</WTYPE>
               <T_CAPTION>
                <item>
-                <LANGU>E</LANGU>
-                <FORMNAME>ZLV_REUMA_170</FORMNAME>
-                <OBJTYPE>WI</OBJTYPE>
-                <INAME>INFO_OLD</INAME>
-                <CAPTION>Information Screen</CAPTION>
-               </item>
-               <item>
                 <LANGU>D</LANGU>
                 <FORMNAME>ZLV_REUMA_170</FORMNAME>
                 <OBJTYPE>WI</OBJTYPE>
                 <INAME>INFO_OLD</INAME>
                 <CAPTION>Infofenster (No print)</CAPTION>
+               </item>
+               <item>
+                <LANGU>E</LANGU>
+                <FORMNAME>ZLV_REUMA_170</FORMNAME>
+                <OBJTYPE>WI</OBJTYPE>
+                <INAME>INFO_OLD</INAME>
+                <CAPTION>Information Screen</CAPTION>
                </item>
               </T_CAPTION>
               <sf:PROC_CTRL>
@@ -1360,18 +1360,18 @@
               <WTYPE>T</WTYPE>
               <T_CAPTION>
                <item>
-                <LANGU>E</LANGU>
-                <FORMNAME>ZLV_REUMA_170</FORMNAME>
-                <OBJTYPE>WI</OBJTYPE>
-                <INAME>INFO</INAME>
-                <CAPTION>Information Screen</CAPTION>
-               </item>
-               <item>
                 <LANGU>D</LANGU>
                 <FORMNAME>ZLV_REUMA_170</FORMNAME>
                 <OBJTYPE>WI</OBJTYPE>
                 <INAME>INFO</INAME>
                 <CAPTION>Infofenster</CAPTION>
+               </item>
+               <item>
+                <LANGU>E</LANGU>
+                <FORMNAME>ZLV_REUMA_170</FORMNAME>
+                <OBJTYPE>WI</OBJTYPE>
+                <INAME>INFO</INAME>
+                <CAPTION>Information Screen</CAPTION>
                </item>
               </T_CAPTION>
               <sf:PROC_CTRL>
@@ -1431,18 +1431,18 @@
               <WTYPE>M</WTYPE>
               <T_CAPTION>
                <item>
-                <LANGU>E</LANGU>
-                <FORMNAME>ZLV_REUMA_170</FORMNAME>
-                <OBJTYPE>WI</OBJTYPE>
-                <INAME>MAIN</INAME>
-                <CAPTION>Main Window</CAPTION>
-               </item>
-               <item>
                 <LANGU>D</LANGU>
                 <FORMNAME>ZLV_REUMA_170</FORMNAME>
                 <OBJTYPE>WI</OBJTYPE>
                 <INAME>MAIN</INAME>
                 <CAPTION>Hauptfenster</CAPTION>
+               </item>
+               <item>
+                <LANGU>E</LANGU>
+                <FORMNAME>ZLV_REUMA_170</FORMNAME>
+                <OBJTYPE>WI</OBJTYPE>
+                <INAME>MAIN</INAME>
+                <CAPTION>Main Window</CAPTION>
                </item>
               </T_CAPTION>
               <sf:PROC_CTRL>
@@ -1550,18 +1550,18 @@
               <WTYPE>T</WTYPE>
               <T_CAPTION>
                <item>
-                <LANGU>E</LANGU>
-                <FORMNAME>ZLV_REUMA_170</FORMNAME>
-                <OBJTYPE>WI</OBJTYPE>
-                <INAME>PAGE_COUNTER</INAME>
-                <CAPTION>Info Window Next Pages</CAPTION>
-               </item>
-               <item>
                 <LANGU>D</LANGU>
                 <FORMNAME>ZLV_REUMA_170</FORMNAME>
                 <OBJTYPE>WI</OBJTYPE>
                 <INAME>PAGE_COUNTER</INAME>
                 <CAPTION>Infofenster Seitenzähler</CAPTION>
+               </item>
+               <item>
+                <LANGU>E</LANGU>
+                <FORMNAME>ZLV_REUMA_170</FORMNAME>
+                <OBJTYPE>WI</OBJTYPE>
+                <INAME>PAGE_COUNTER</INAME>
+                <CAPTION>Info Window Next Pages</CAPTION>
                </item>
               </T_CAPTION>
               <sf:PROC_CTRL>
@@ -1670,18 +1670,18 @@
               <WTYPE>T</WTYPE>
               <T_CAPTION>
                <item>
-                <LANGU>E</LANGU>
-                <FORMNAME>ZLV_REUMA_170</FORMNAME>
-                <OBJTYPE>WI</OBJTYPE>
-                <INAME>FOOTER</INAME>
-                <CAPTION>Footer Window</CAPTION>
-               </item>
-               <item>
                 <LANGU>D</LANGU>
                 <FORMNAME>ZLV_REUMA_170</FORMNAME>
                 <OBJTYPE>WI</OBJTYPE>
                 <INAME>FOOTER</INAME>
                 <CAPTION>Fußfenster (No print)</CAPTION>
+               </item>
+               <item>
+                <LANGU>E</LANGU>
+                <FORMNAME>ZLV_REUMA_170</FORMNAME>
+                <OBJTYPE>WI</OBJTYPE>
+                <INAME>FOOTER</INAME>
+                <CAPTION>Footer Window</CAPTION>
                </item>
               </T_CAPTION>
               <sf:PROC_CTRL>
@@ -1797,18 +1797,18 @@
            <PAGEORTN>P</PAGEORTN>
            <T_CAPTION>
             <item>
-             <LANGU>E</LANGU>
-             <FORMNAME>ZLV_REUMA_170</FORMNAME>
-             <OBJTYPE>PA</OBJTYPE>
-             <INAME>NEXT</INAME>
-             <CAPTION>Next Page</CAPTION>
-            </item>
-            <item>
              <LANGU>D</LANGU>
              <FORMNAME>ZLV_REUMA_170</FORMNAME>
              <OBJTYPE>PA</OBJTYPE>
              <INAME>NEXT</INAME>
              <CAPTION>Folgeseite</CAPTION>
+            </item>
+            <item>
+             <LANGU>E</LANGU>
+             <FORMNAME>ZLV_REUMA_170</FORMNAME>
+             <OBJTYPE>PA</OBJTYPE>
+             <INAME>NEXT</INAME>
+             <CAPTION>Next Page</CAPTION>
             </item>
            </T_CAPTION>
            <sf:BACKGROUND>
@@ -2330,18 +2330,18 @@
            <PAGEORTN>P</PAGEORTN>
            <T_CAPTION>
             <item>
-             <LANGU>E</LANGU>
-             <FORMNAME>ZLV_REUMA_170</FORMNAME>
-             <OBJTYPE>PA</OBJTYPE>
-             <INAME>LAST</INAME>
-             <CAPTION>Next Page</CAPTION>
-            </item>
-            <item>
              <LANGU>D</LANGU>
              <FORMNAME>ZLV_REUMA_170</FORMNAME>
              <OBJTYPE>PA</OBJTYPE>
              <INAME>LAST</INAME>
              <CAPTION>letzte Seite</CAPTION>
+            </item>
+            <item>
+             <LANGU>E</LANGU>
+             <FORMNAME>ZLV_REUMA_170</FORMNAME>
+             <OBJTYPE>PA</OBJTYPE>
+             <INAME>LAST</INAME>
+             <CAPTION>Next Page</CAPTION>
             </item>
            </T_CAPTION>
            <sf:BACKGROUND>
@@ -2397,18 +2397,18 @@
               <WTYPE>T</WTYPE>
               <T_CAPTION>
                <item>
-                <LANGU>E</LANGU>
-                <FORMNAME>ZLV_REUMA_170</FORMNAME>
-                <OBJTYPE>WI</OBJTYPE>
-                <INAME>LP_CI_RETURN_INFO</INAME>
-                <CAPTION>Info Window Next Pages</CAPTION>
-               </item>
-               <item>
                 <LANGU>D</LANGU>
                 <FORMNAME>ZLV_REUMA_170</FORMNAME>
                 <OBJTYPE>WI</OBJTYPE>
                 <INAME>LP_CI_RETURN_INFO</INAME>
                 <CAPTION>Infofenster - Hinweis</CAPTION>
+               </item>
+               <item>
+                <LANGU>E</LANGU>
+                <FORMNAME>ZLV_REUMA_170</FORMNAME>
+                <OBJTYPE>WI</OBJTYPE>
+                <INAME>LP_CI_RETURN_INFO</INAME>
+                <CAPTION>Info Window Next Pages</CAPTION>
                </item>
               </T_CAPTION>
               <sf:PROC_CTRL>
