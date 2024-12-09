@@ -143,34 +143,7 @@
     <STANDARD>X</STANDARD>
    </item>
   </INTERFACE>
-  <GTYPES>
-   <item/>
-   <item>TYPES: BEGIN OF ty_test,</item>
-   <item>         i TYPE i,</item>
-   <item>         s TYPE string,</item>
-   <item>       END OF ty_test.</item>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-  </GTYPES>
+  <GTYPES>File:gtypes</GTYPES>
   <GPLIST>
    <item>
     <OUTIN>I</OUTIN>
@@ -332,53 +305,8 @@
     <OUTIN>O</OUTIN>
    </item>
   </GPLIST>
-  <GCODING>
-   <item/>
-   <item/>
-   <item>CALL FUNCTION &apos;ITS_PING&apos;</item>
-   <item>  EXCEPTIONS</item>
-   <item>    its_not_available = 1</item>
-   <item>    OTHERS            = 2.</item>
-   <item/>
-   <item>IF sy-subrc &lt;&gt; 0.</item>
-   <item>  &quot;implement suitable error handling here</item>
-   <item>ENDIF.</item>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-  </GCODING>
-  <FCODING>
-   <item>form global_demo.</item>
-   <item>    &quot;Demo</item>
-   <item>endform.</item>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-  </FCODING>
+  <GCODING>File:gcoding</GCODING>
+  <FCODING>File:fcoding</FCODING>
   <sf:VARHEADER>
    <sf:item>
     <PAGEFORMAT>DINA4</PAGEFORMAT>
@@ -502,35 +430,7 @@
                       <INAME>CODING1</INAME>
                      </NAME>
                      <CAPTION>Just sample coding</CAPTION>
-                     <CODE>
-                      <item/>
-                      <item/>
-                      <item>SELECT *</item>
-                      <item>       FROM t000</item>
-                      <item>      INTO TABLE @DATA(clients)    .</item>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                      <item/>
-                     </CODE>
+                     <CODE>File:c9e51691</CODE>
                      <T_CAPTION>
                       <item>
                        <LANGU>E</LANGU>

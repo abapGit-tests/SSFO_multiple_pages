@@ -143,32 +143,7 @@
     <STANDARD>X</STANDARD>
    </item>
   </INTERFACE>
-  <GTYPES>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-   <item/>
-  </GTYPES>
+  <GTYPES>File:gtypes</GTYPES>
   <GPLIST>
    <item>
     <OUTIN>I</OUTIN>
